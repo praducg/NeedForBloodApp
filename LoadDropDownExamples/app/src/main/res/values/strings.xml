@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Search for Blood</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="state_prompt">Choose a state</string>
+    <string name="city_prompt">Choose a city</string>
+    <string name="area_prompt">Choose a loction</string>
+    <string name="bgrp_prompt">Choose a blood Group</string>
+    <string-array name="bgrp_name">
+        <item>O+ve</item>
+        <item>B+ve</item>
+        <item>B-ve</item>
+        <item>O-ve</item>
+        <item>AB-ve</item>
+        <item>AB+ve</item>
+    </string-array>
+</resources>
